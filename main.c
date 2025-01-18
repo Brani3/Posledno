@@ -3,7 +3,7 @@ void main()
 {
     int d,m,y,day,visokosna;
         do{
-        printf("MORKOV");
+        printf("MORKOV pro max");
         scanf("%d",&d);
         printf("Enter month");
         scanf("%d",&m);
